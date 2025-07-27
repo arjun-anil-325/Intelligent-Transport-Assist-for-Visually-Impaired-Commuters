@@ -1,6 +1,6 @@
 # Intelligent Transport Assist for Visually Impaired Commuters
 
-This project presents a real-time AI-based assistive system designed to help visually impaired individuals and non-native language users identify public buses using computer vision and speech synthesis technologies.
+This project seeks to develop an ”Intelligent Transport Assist” system that enables visually impaired commuters to independently identify and access buses in real-time.
 
 ## 👁️‍🗨️ Project Overview
 
